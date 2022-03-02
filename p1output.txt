@@ -1,1 +1,6 @@
-
+ gcc -g p1original.c
+ ./a.out
+Enter the four numbers
+1 2
+1 4
+sum of 1/2 +1/4is 2/6 

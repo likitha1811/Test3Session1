@@ -1,6 +1,7 @@
  gcc -g p1original.c
  ./a.out
-Enter the four numbers
-1 2
+enter the fraction one a/b in the form a_b
 1 4
-sum of 1/2 +1/4is 2/6 
+enter the fraction two a/b in the form a_b
+1 2
+the sum of fractions 1/4 and 1/2 is given by 3/4 
